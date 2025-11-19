@@ -120,3 +120,106 @@ python clean.py
 ```
 The cleaned CSV files will be saved in the cleaned_data folder.
 
+# Analysis
+## Goals
+### Overview Analysis
+
+-----------------------------------
+1. Total number of employees.
+2. Trends in hired and Reviewed employees over the years.
+3. Employee distribution by department and job role.
+4. Count of employees at HQ vs. other branches.
+5. City distribution of employees.
+-----------------------------------
+### Demographic Analysis
+
+-----------------------------------
+1. Genders distribution.
+2. Age distribution.
+3. Education levels distribution.
+4. Education and Performance correlation
+-----------------------------------
+### Income Analysis
+
+-----------------------------------
+1. Patterns in salary distribution across education levels and genders.
+2. Age and Salary correlation across departments.
+-----------------------------------
+
+## Charts 
+The analysis was conducted and presented using Tableau.
+The Tableau workbook file is included in the repository as "HR Analysis.twbx".
+
+### Key Findings
+1. Total Hired 6,709
+2. Average salary $111,062
+3. Average Years at Company 5.7
+
+4. Decline in Hired employees from 2012 to 2022
+![Hiring trendline](images/hire_over_years.png)
+
+5. on the contrary Reviews increased during the same time
+![Review trendline](images/review_over_years.png)
+
+6. Department Distribution
+![Department Distribution](images/department_distribution.png)
+- Sub distribution by Job Role
+![Tech Roles Distribution](images/tech_department_distribution.png)
+- Sales Roles Distribution
+![Sales Roles Distribution](images/sales_department_distribution.png)
+- HR Roles Distribution
+![HR Roles Distribution](images/hr_department_distribution.png)
+- Overall Job Role Distribution
+![Overall Job Role Distribution](images/jobrole_department_distribution.png)
+7. State Distribution
+![State Distribution](images/states_distribution.png)
+8. Gender Distribution
+
+      ![Gender Distribution](images/gender_distribution.png)
+9. Age Education Distribution
+
+      ![Age Education Distribution](images/age_education_orr.png)
+10.  Age Salary Distribution
+
+      ![Age Salary Distribution](images/age_salary_corr.png)
+11.  Education Level Performance Distribution
+
+      ![Education Level Performance Distribution](images/education_performance_corr.png)
+12.  Gender, Education Level Salary Distribution
+
+      ![Gender, Education Level Salary Distribution](images/gender_salary_education_corr.png)
+
+
+
+## Dashboard
+A dashboard was created in Tableau to visualize the key metrics and trends identified in the analysis. The dashboard includes interactive charts and graphs that allow users to explore the data in more detail.
+The Tableau workbook file is included in the repository as "HR Analysis.twbx".
+### Dashboard Screenshots
+1. Overview Dashboard (dark mode)
+![Overview Dashboard](images/dark_mode_summary.png)
+2. Overview Dashboard (light mode)
+![Overview Dashboard](images/light_mode_summary.png)
+3. Employee Detailed List (dark mode)
+![Employee Detailed List](images/employee_list_dark_mode.png)
+4. Employee Detailed List (light mode)
+![Employee Detailed List](images/employee_list_light_mode.png)
+
+## How to Use the Dashboard
+1. Open the Tableau workbook file "HR Analysis.twbx" using Tableau Desktop or Tableau Reader.
+2. Navigate through the different sheets and dashboards to explore the data.
+3. Use filters and interactive elements to drill down into specific metrics or segments of the data.
+4. Analyze trends and patterns to gain insights into the HR data.
+5. Export visualizations or data as needed for reporting or presentations.
+6. Save any changes made to the workbook for future reference.
+7. Share the workbook with stakeholders to facilitate data-driven decision-making in HR management.
+8. Refer to the key findings section for insights derived from the analysis.
+
+# Conclusion
+This analysis provided insights into the HR data, revealing trends in hiring, employee demographics, and salary
+distribution. Key findings include a decline in hiring over the years, gender disparities in salary, and correlations between education levels and performance ratings. These insights can inform HR strategies and decision-making.
+
+
+
+
+
+
