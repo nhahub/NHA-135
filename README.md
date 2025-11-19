@@ -168,23 +168,24 @@ The Tableau workbook file is included in the repository as "HR Analysis.twbx".
 - Sales Roles Distribution
 ![Sales Roles Distribution](images/sales_department_distribution.png)
 - HR Roles Distribution
-![HR Roles Distribution](images/hr_department_distribution.png)
+![HR Roles Distribution](images/HR_department_distribution.png)
 - Overall Job Role Distribution
 ![Overall Job Role Distribution](images/jobrole_department_distribution.png)
 7. State Distribution
-![State Distribution](images/states_distribution.png)
+
+      ![State Distribution](images/states_distribution.png)
 8. Gender Distribution
 
-      ![Gender Distribution](images/gender_distribution.png)
+      ![Gender Distribution](images/Gender_distribution.png)
 9. Age Education Distribution
 
-      ![Age Education Distribution](images/age_education_orr.png)
+      ![Age Education Distribution](images/Age_education_orr.png)
 10.  Age Salary Distribution
 
       ![Age Salary Distribution](images/age_salary_corr.png)
 11.  Education Level Performance Distribution
 
-      ![Education Level Performance Distribution](images/education_performance_corr.png)
+      ![Education Level Performance Distribution](images/Education_performance_corr.png)
 12.  Gender, Education Level Salary Distribution
 
       ![Gender, Education Level Salary Distribution](images/gender_salary_education_corr.png)
